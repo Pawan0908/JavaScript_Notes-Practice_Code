@@ -54,11 +54,17 @@ As I progress through the course, this repo will cover:
 
 🎓 **YouTube Channel:** [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
 💬 Tutorials include theory + coding + mini projects.
+🎓 **YouTube Channel:** [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
+💬 Tutorials include theory + coding + mini projects.
 
 ---
 
 ## 🎯 Upcoming Plans
 
+🧠 Learn Advanced JS concepts (Promises, Async/Await)
+🧰 Build real-world projects
+⚙️ Practice DOM + API integrations
+💻 Start learning frameworks (React.js soon!)
 🧠 Learn Advanced JS concepts (Promises, Async/Await)
 🧰 Build real-world projects
 ⚙️ Practice DOM + API integrations
@@ -80,16 +86,17 @@ If you’d like to add or improve something:
 
 ## 📬 Connect With Me
 
-* 👨‍💻 **GitHub:** [Pawan0908](https://github.com/Pawan0908)
+👨‍💻 **GitHub:** [Pawan0908](https://github.com/Pawan0908)
 
 ---
 
 ## ❤️ Show Some Love
 
-If you find this repository helpful, please **⭐ Star** it — it really motivates me to keep learning and sharing! 🚀
+If you find this repository helpful, please **⭐ Star** it — it motivates me to keep learning and sharing! 🚀
 
 ---
 
 **Made with 💛 and JavaScript**
+
 `#KeepCoding #KeepLearning`
 
