@@ -12,8 +12,7 @@
 
 Welcome to my **JavaScript Learning Repository**!  
 This repo includes all my notes, code snippets, and hands-on practice as I learn JavaScript from scratch.  
-I’m following the amazing tutorials from [Apna College] to strengthen my web development fundamentals.  
-
+I’m following the amazing tutorials from [Apna College] to strengthen my web development fundamentals.
 
 ---
 
@@ -21,46 +20,49 @@ I’m following the amazing tutorials from [Apna College] to strengthen my web d
 
 As I progress through the course, this repo will cover:
 
-- 🧩 Basics of JavaScript  
-- 🧮 Variables, Data Types & Operators  
-- 🔁 Conditional Statements & Loops  
-- 🧠 Functions, Scope & Hoisting  
-- 📦 Arrays & Objects  
-- 🌐 DOM Manipulation  
-- ⚡ Events & Event Handling  
-- 🧱 ES6 Features (Arrow Functions, Template Literals, let/const, etc.)  
-- 🧰 Mini Practice Projects & Challenges  
+- 🧩 Basics of JavaScript
+- 🧮 Variables, Data Types & Operators
+- 🔁 Conditional Statements & Loops
+- 🧠 Functions, Scope & Hoisting
+- 📦 Arrays & Objects
+- 🌐 DOM Manipulation
+- ⚡ Events & Event Handling
+- 🧱 ES6 Features (Arrow Functions, Template Literals, let/const, etc.)
+- 🧰 Mini Practice Projects & Challenges
 
 ---
 
 ## ⚙️ How to Run the Code
 
 1. **Clone this repository:**
+
    ```Open git bash
-   
+
       git clone https://github.com/Pawan0908/JavaScript_Notes-Practice_Code.git
-   
+
+   ```
+
 ````
 
-2. **Open the folder** in your favorite editor (VS Code recommended).
+   2. **Open the folder** in your favorite editor (VS Code recommended).
 
-3. Run any `.html` file directly in your browser or use a live server extension for quick reloads.
+   3. Run any `.html` file directly in your browser or use a live server extension for quick reloads.
 
 ---
 
 ## 📺 Learning Source
 
-* 🎓 **YouTube Channel:** [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
-* 💬 Tutorials include theory + coding + mini projects.
+🎓 **YouTube Channel:** [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
+💬 Tutorials include theory + coding + mini projects.
 
 ---
 
 ## 🎯 Upcoming Plans
 
-* 🧠 Learn Advanced JS concepts (Promises, Async/Await)
-* 🧰 Build real-world projects
-* ⚙️ Practice DOM + API integrations
-* 💻 Start learning frameworks (React.js soon!)
+🧠 Learn Advanced JS concepts (Promises, Async/Await)
+🧰 Build real-world projects
+⚙️ Practice DOM + API integrations
+💻 Start learning frameworks (React.js soon!)
 
 ---
 
@@ -91,4 +93,3 @@ If you find this repository helpful, please **⭐ Star** it — it really motiva
 **Made with 💛 and JavaScript**
 `#KeepCoding #KeepLearning`
 
-```
