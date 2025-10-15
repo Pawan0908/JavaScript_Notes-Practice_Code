@@ -35,13 +35,13 @@ As I progress through the course, this repo will cover:
 
 ## ⚙️ How to Run the Code
 ````
-1. **Clone this repository:**
+1. Clone this repository:**
    Open git bash
    
       git clone https://github.com/Pawan0908/JavaScript_Notes-Practice_Code.git
    
 
-2. **Open the folder** in your favorite editor (VS Code recommended).
+2. Open the folder** in your favorite editor (VS Code recommended).
 
 3. Run any `.html` file directly in your browser or use a live server extension for quick reloads.
 ````
@@ -88,6 +88,7 @@ If you find this repository helpful, please **⭐ Star** it — it motivates me 
 ---
 
 **Made with 💛 and JavaScript**
+
 `#KeepCoding #KeepLearning`
 
 ```
