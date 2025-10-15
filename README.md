@@ -34,33 +34,32 @@ As I progress through the course, this repo will cover:
 ---
 
 ## ⚙️ How to Run the Code
-
+````
 1. **Clone this repository:**
-   ```Open git bash
+   Open git bash
    
       git clone https://github.com/Pawan0908/JavaScript_Notes-Practice_Code.git
    
-````
 
 2. **Open the folder** in your favorite editor (VS Code recommended).
 
 3. Run any `.html` file directly in your browser or use a live server extension for quick reloads.
-
+````
 ---
 
 ## 📺 Learning Source
 
-* 🎓 **YouTube Channel:** [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
-* 💬 Tutorials include theory + coding + mini projects.
+🎓 **YouTube Channel:** [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
+💬 Tutorials include theory + coding + mini projects.
 
 ---
 
 ## 🎯 Upcoming Plans
 
-* 🧠 Learn Advanced JS concepts (Promises, Async/Await)
-* 🧰 Build real-world projects
-* ⚙️ Practice DOM + API integrations
-* 💻 Start learning frameworks (React.js soon!)
+🧠 Learn Advanced JS concepts (Promises, Async/Await)
+🧰 Build real-world projects
+⚙️ Practice DOM + API integrations
+💻 Start learning frameworks (React.js soon!)
 
 ---
 
@@ -78,13 +77,13 @@ If you’d like to add or improve something:
 
 ## 📬 Connect With Me
 
-* 👨‍💻 **GitHub:** [Pawan0908](https://github.com/Pawan0908)
+👨‍💻 **GitHub:** [Pawan0908](https://github.com/Pawan0908)
 
 ---
 
 ## ❤️ Show Some Love
 
-If you find this repository helpful, please **⭐ Star** it — it really motivates me to keep learning and sharing! 🚀
+If you find this repository helpful, please **⭐ Star** it — it motivates me to keep learning and sharing! 🚀
 
 ---
 
