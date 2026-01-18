@@ -1,0 +1,35 @@
+Time stamp
+Introduction                        00:00:00
+Variables and data types            00:01:25
+Operators                           01:21:18
+Loops                               02:30:37
+Arrays                              03:43:30
+Functions                           04:37:28
+DOM part 1                          05:39:00
+DOM Part 2                          06:52:50
+Events                              07:17:24
+Building Game                       07:46:41
+Classes                             08:28:18
+Callback                            09:22:28
+Fetch API                           10:37:54
+Project Currency converter          11:06:15
+
+
+
+Total	14 Videos	Total Duration:                                                     13Hours 56Minutes 4Seconds
+
+1.	JavaScript Full Course ❤️ | Variables & Data Types | Lecture 1	                   1h 21m 11s
+2.	Lecture 2 : Operators and Conditional Statements | JavaScript Full Course	       1h 16m 47s
+3.	Lecture 3: Loops and Strings | JavaScript Full Course	                           1h 21m 9s
+4.	Lecture 4: Arrays | JavaScript Full Course	                                       1h 26s
+5.	Lecture 5: Functions & Methods | JavaScript Full Course	                           1h 9m 10s
+6.	Lecture 6 : DOM - Document Object Model | JavaScript Full Course | Part 1	       1h 22m 31s
+7.	Lecture 7 : DOM (Part 2) | Document Object Model | JavaScript Full Course	       27m 56s
+8.	Lecture 8 : Events in JavaScript | JavaScript Full Course	                       33m 12s
+9.	Imp Update : JavaScript YouTube Course | Shradha Ma'am	                           1m 8s
+10.	Lecture 9 : Tic Tac Toe Game in JavaScript | JS Project | JavaScript Full Course    53m 35s
+11.	Lecture 10 : MiniProject - Stone, Paper & Scissors Game | JavaScript Full Course	47m 6s
+12.	Lecture 11 : Classes & Objects | JavaScript Full Course	                            1h 43s
+13.	Lecture 12 : Callbacks, Promises & Async Await | JavaScript Full Course	            1h 23m 55s
+14.	Last Lecture : Fetch API with Project | JavaScript Full Course
+
